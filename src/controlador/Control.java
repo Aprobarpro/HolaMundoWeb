@@ -20,7 +20,7 @@ public class Control extends HttpServlet {
      * @see HttpServlet#HttpServlet()
      */
     public Control() {
-        super();
+        super(); 
         // TODO Auto-generated constructor stub
     }
 
